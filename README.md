@@ -5,6 +5,22 @@ This analysis evaluates sales and inventory data from Maven Toy Store, a toy ret
 
 ![image alt](https://github.com/Henryugo87/Power-bi-Project/blob/08bdfe7bcc75edccffde780bb024b8c893cac40e/Screenshot%202025-07-31%20034246.png)
 
+
+
+## Table of Content
+
+- [Project Overview](#project-overview)
+- [Objective](#objectives)
+- [Key Business Questions](#key-business-questions)
+- [Tools and Methodologies](#tools-and-methodologies)
+- [Data Processing ](#data-processing)
+- [Data Modeling](#data-modeling)
+- [Key Insights](#key-insights)
+- [Summary & Recommendations](#summary-&-recommendations)
+- [References](#references)
+
+
+
 ## Objectives
 The primary goal of this analysis is to generate actionable insights into Maven Toy Store's overall sales performance and profitability by evaluating: 
 - Store location performance 
