@@ -46,4 +46,35 @@ Importation Process: Data was ingested using Power BI’s Excel connector.
   ## Data Modeling 
 Effective data modeling structures raw data into an analytical framework, allowing seamless relationship-building between tables. In this project, Power BI automatically identified table relationships, forming a *star schema model*:
 
+
 ![image alt](https://github.com/Henryugo87/Power-bi-Project/blob/5614bf3f7ba6d93d5645abd3cb4e46a0bc5e5bb3/Screenshot%202025-07-31%20034826.png)
+
+1. Fact Table: Sales Table, Inventory
+2. Dimension Tables: Products, Stores, and Dates
+
+## Key Insights
+
+### Product Analysis 
+1. *Which product categories generate the highest profits?*
+- Toys are the most profitable, contributing $1.08M (26.89%) of total profits. 
+- Electronics follow closely with $1M (25%). 
+- Sports & Outdoor products generate the lowest profit at $500K.
+
+2. *Are these profit trends location-dependent?*
+- Electronics dominate in Airport and Commercial locations. 
+- Toys perform best in Downtown and Residential areas.
+
+3. *Top Performing Products*
+Highest Profit-Generating Products:
+- Colorbuds - $835K 
+- Action Figure - $348K 
+- Lego Bricks - $298K 
+- Deck of Cards - $252K 
+- Glass Marbles - $190K
+
+4. *Most Sold Products:*
+  - Colorbuds - 104K units (23.5%)
+  - Playdoh Can - 103K units (23.2%)
+  - Barrel O’Slime - 91K units
+  - Deck of Cards - 84K units
+  - Magic Sand - 61K units
