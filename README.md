@@ -78,3 +78,5 @@ Highest Profit-Generating Products:
   - Barrel O’Slime - 91K units
   - Deck of Cards - 84K units
   - Magic Sand - 61K units
+
+![image alt](https://github.com/Henryugo87/Power-bi-Project/blob/e22749d3cb7fd0d8a0d29a54656f0c9e7becff98/Screenshot%202025-07-31%20034353.png)
